@@ -1,18 +1,29 @@
-<div size='20px'> Hi! My name is Byte. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+# Hi, I am Byte 👋
 
-- I’m currently working on Coding many projects, Including <a href="https://xspect.cc/">Xspect - An Awesome Link In Bio Service</a> with my friend <a href="https://github.com/icicle1133">icicle1133</a>
+🌱 I'm a student in the US, currently planning on majoring in `Computer Science and Technology`  
+❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>  
+📷 Beginner photography enthusiast  
+🌏 My time zone is `CST (Central Standard Time)`  
+⭐ [My Personality Type](https://www.16personalities.com/profiles/intp-t/f/mcslzcl1t): INTP-T  
 
-- I’m currently learning Common Cybersecurity Red Team Techniques 
- 
-- Talk to me about Homelabbing or Open Source 
+#### 💬 CONTACT
 
-## Stats
+🕹️ Discord: @c9fz  
+📫 Email: contact@c9fz.cc  
+🔑 You can find my PGP public key [here](https://github.com/catsizedcoder/catsizedcoder/blob/main/c9fz-pub-key.asc)  
+
+<!-- Github stats: -->
 <img alt="image" src="https://api.icicle1133.cc/api?username=catsizedcoder&show_icons=true&bg_color=161925&title_color=8500F7&text_color=FFFFFF&icon_color=3DAEE9&hide_border=true" />
 
-## Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1235968089221365831)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/catsizedcoder)
-[![Email](https://img.shields.io/badge/Email-contact@c9fz.cc-0078D4?logo=gmail&logoColor=white)](mailto:contact@c9fz.cc)
-<br>
+#### 🎮 GAMES
 
+<code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a>&nbsp;Minecraft</code>
+
+#### 📝 ORGANIZATIONS
+
+Founder of Xspect.cc: <code><a href="https://github.com/Xspect-cc"><img height="20" src="https://avatars.githubusercontent.com/u/202599454" alt="Xspect" /></a>&nbsp;<a href="https://github.com/Xspect-cc">Xspect.cc</a></code>  
+
+#### 📂 PROJECTS
+
+`🔒` **catsizedcoder/YAWFS**: Yet Another Wall-of-Fire Software: A Firewall software that aims to be reliable, fast and secure all while staying easy to setup.  
+`🔓` **catsizedcoder/SchoolLinks**: An adfree game site based off of MathGames66(an old game site which no longer exists).  
