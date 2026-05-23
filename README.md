@@ -9,15 +9,8 @@
 #### 💬 CONTACT
 
 🕹️ Discord: @c9fz  
-📫 Email: contact@c9fz.cc  
-🔑 You can find my PGP public key [here](https://github.com/catsizedcoder/catsizedcoder/blob/main/c9fz-pub-key.asc)  
-
 <!-- Github stats: -->
 <img alt="image" src="https://api.icicle1133.cc/api?username=catsizedcoder&show_icons=true&bg_color=161925&title_color=8500F7&text_color=FFFFFF&icon_color=3DAEE9&hide_border=true" />
-
-#### 🎮 GAMES
-
-<code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a>&nbsp;Minecraft</code>
 
 #### 📝 ORGANIZATIONS
 
