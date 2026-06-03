@@ -10,7 +10,7 @@
 
 🕹️ Discord: @c9fz  
 <!-- Github stats: -->
-<img alt="image" src="https://api.icicle1133.cc/api?username=catsizedcoder&show_icons=true&bg_color=161925&title_color=8500F7&text_color=FFFFFF&icon_color=3DAEE9&hide_border=true" />
+<img alt="image" src="https://stats.icicle1133.cc/api?username=catsizedcoder&show_icons=true&bg_color=161925&title_color=8500F7&text_color=FFFFFF&icon_color=3DAEE9&hide_border=true" />
 
 #### 📝 ORGANIZATIONS
 
